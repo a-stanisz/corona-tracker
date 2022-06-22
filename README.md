@@ -1,3 +1,9 @@
+It was a repo following a YouTube tutorial from the "JavaScript Mastery" channel.
+
+Might be worth reviewing but generally was finished.
+
+___
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
